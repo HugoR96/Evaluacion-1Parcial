@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f26f61f-bcf1-47af-96bf-6a92cdb3d58e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Evaluacion1Parcial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio1/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio2/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -67,5 +64,16 @@
       <updated>1725970159638</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
